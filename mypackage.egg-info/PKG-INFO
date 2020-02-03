@@ -2,7 +2,7 @@ Metadata-Version: 1.0
 Name: mypackage
 Version: 0.1
 Summary: EDSA example python package
-Home-page: https://github.com/Khomotjo_Kudumela/mypackage
+Home-page: https://github.com/khomokudus/mypackage
 Author: Khomotjo
 Author-email: khomokudus@gmail.com
 License: MIT
@@ -13,9 +13,9 @@ Description: #mypackage
         'python setup.py sdist'
         
         ## installing this package from github
-        'pip install git+https://github.com/Khomotjo_Kudumela/example-python-package.git'
+        'pip install git+https://github.com/khomokudus/example-python-package.git'
         
         ## updating this package from github
-        'pip install --upgrade git+https://github.com/Khomotjo_Kudumela/example-python-package.git'
+        'pip install --upgrade git+https://github.com/khomokudus/example-python-package.git'
         
 Platform: UNKNOWN
